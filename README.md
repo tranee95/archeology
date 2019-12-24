@@ -7,7 +7,7 @@ archeology web client
 3. Jquery 
 4. semantic-ui
 
-#task
+# task
 1. build - npm run build
 2. development - npm run dev
 3. publish - npm run deploy
