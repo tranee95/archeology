@@ -12,3 +12,4 @@ archeology web client
 2. development - npm run dev
 3. publish - npm run deploy
 
+# https://tranee95.github.io/archeology/
