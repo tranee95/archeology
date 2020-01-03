@@ -1,4 +1,5 @@
 import '../css/index.css';
+import { accordion } from './accordion';
 
 class main {
 
@@ -10,6 +11,10 @@ class main {
     };
 }
 
-const _main = new main();
-_main.log(); 
+const _accordion = new accordion();
+
+
+
+
+
 

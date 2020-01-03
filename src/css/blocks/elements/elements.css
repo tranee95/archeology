@@ -1,5 +1,5 @@
 .elements__grid {
-    width: 1110px;
+    width: 1070px;
     display: grid;
     grid-template-columns: 350px 350px 350px;
     grid-template-rows: 450px 450px 450px;
@@ -11,7 +11,7 @@
 .elements__grid_item {
     width: 350px;
     height: 450px;
-    box-shadow: 2px 2px 10px 0px #000000;
+    box-shadow: 2px 2px 8px 0px rgba(0, 0, 0, .7);
     border-radius: 3px;
     background-color: #fff;
     transition: all 0.1s ease-in;
